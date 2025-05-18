@@ -1,13 +1,13 @@
 # Text-classification-for-social-media-posts
- 🚀 Social Media Post Topic Classifier
+ Social Media Post Topic Classifier
 
 This is a simple Python application that uses Hugging Face's `transformers` library to classify social media posts into a wide range of possible topics **without any training data**. It leverages the power of **zero-shot learning** to determine the most relevant topic for any given post.
 
 🔍 Features
-- 🔗 Zero-shot classification using pre-trained NLP models
-- ✅ No need for labeled data or training
-- 🧠 Classifies posts into broad categories like sports, politics, entertainment, etc.
-- 🖥️ Easy-to-use command-line interface
+- Zero-shot classification using pre-trained NLP models
+- No need for labeled data or training
+- Classifies posts into broad categories like sports, politics, entertainment, etc.
+- Easy-to-use command-line interface
 
 
 🧰 Requirements
@@ -24,6 +24,6 @@ Type exit to quit the program.
 
 📚 Example
 Input:
-Enter social media post: The new iPhone 15 Pro camera is insane! 📱📷
+Enter social media post: The new iPhone 15 Pro camera is insane!
 Output:
 🏷️ Predicted Topic: technology (confidence: 0.92)
